@@ -12,7 +12,7 @@ scan 0
 
 hgetall key
 
-![image](https://github.com/mia-li/redis-blazor/blob/master/1.png)
-![image](https://github.com/mia-li/redis-blazor/blob/master/4.png)
+![image]()
+![image]()
 
 2- use azure redis 
