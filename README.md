@@ -1,6 +1,6 @@
 # redis-blazor
 
-install redis in docker 
+1-install redis in docker 
 
 docker run --name my-redis -p 5002:6379 -d redis
 
@@ -14,3 +14,5 @@ hgetall key
 
 ![image](https://github.com/mia-li/redis-blazor/blob/master/1.png)
 ![image](https://github.com/mia-li/redis-blazor/blob/master/4.png)
+
+2- use azure redis 
